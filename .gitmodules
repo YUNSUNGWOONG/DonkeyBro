@@ -1,0 +1,7 @@
+[submodule "library/donkeycar"]
+	path = library/donkeycar
+	url = git@github.com:sogongbang/donkeycar.git
+	branch = ubinos-main
+[submodule "library/gym-donkeycar"]
+	path = library/gym-donkeycar
+	url = git@github.com:sogongbang/gym-donkeycar.git
