@@ -81,7 +81,9 @@ Next!
 cd C:\
 ```
 
-해당 ([링크][https://github.com/YUNSUNGWOONG/donkeycar_projects])로 git clone을 해준다.
+
+
+해당([링크][https://github.com/YUNSUNGWOONG/donkeycar_projects])로 git clone을 해준다.
 
 ```shell
 git clone https://github.com/YUNSUNGWOONG/donkeycar_projects.git
@@ -287,7 +289,7 @@ donkey manage -model ./models/mypilot.tflite -type tflite_linear
 
 ## 라이센스
 
-MIT &copy; [NoHack](mailto:2170004487z@gmail.com)
+MIT &copy; [YUNSUNGWOONG](mailto:2170004487z@gmail.com)
 
 <!-- Stack Icon Refernces -->
 
