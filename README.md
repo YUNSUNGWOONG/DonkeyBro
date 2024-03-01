@@ -228,7 +228,9 @@ donkey createcar --template=cv_control --path car_cv
 donkey createcar –template=path_follow --path car_dl
 ```
 
+최종적으로 아래와 같이 아키텍처를 구축하게 됩니다.
 
+![image-20240301102542781](images/common/README}/image-20240301102542781.png)
 
 ## 9. 카메라로 데이터 수집하기(Data collection)
 
