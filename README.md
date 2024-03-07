@@ -64,7 +64,7 @@ Next!
 
 ![image-20240229193616533](images/common/README}/image-20240229193616533.png)
 
-이후 수동으로 환경변수를 잡아주자.
+이후 수동으로 환경변수(사용자변수)를 잡아주자.
 
 ![image-20240229193849567](images/common/README}/image-20240229193849567.png)
 
