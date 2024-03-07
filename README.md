@@ -14,8 +14,8 @@
 
 1. vscode([링크](https://code.visualstudio.com/download))
 2. git([링크](https://git-scm.com/))
-3. msys([링크](https://git-scm.com/))
-4. 파이썬(3.9.12)([링크](https://git-scm.com/))
+3. msys([링크](https://www.msys2.org/))
+4. 파이썬(3.9.12)([링크](https://www.python.org/downloads/))
 
 <br>
 
