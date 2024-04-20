@@ -6,7 +6,13 @@
   <br>
 </p>
 
-
+# Contributors
+PI: Sunho Park
+EL: Sungwoong Yun
+EM: Sungjoon Yang
+EM: Hoil Lee
+EM: Jeseok Oh
+EM: Kibum Yun
 
 # ※프로젝트 구축방법(윈도우 버전)
 
