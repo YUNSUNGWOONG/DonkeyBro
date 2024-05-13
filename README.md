@@ -184,7 +184,7 @@ tar -zxvf DonkeySimWin.zip
 
 ## 7. cars안에 mycar 생성하고 실행해보기
 
-1)`donkeycar_projects` 아래에 `cars`라는 폴더를 만들어줍니다.
+1)`DonkeyBro` 아래에 `cars`라는 폴더를 만들어줍니다.
 
 (차량들을 모아둘, 비유하자면 일종의 주차장 같은 겁니다.)
 
