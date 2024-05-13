@@ -7,12 +7,18 @@
 </p>
 
 # Contributors
+|     PI     |     EL     |   EM   |    EM    |    EM    |    EM    |
+|   :-----:   |   :-----:   | :------: |   :-----:   |   :-----:   |   :-----:   |
+|   Sunho Park(Prof)    |   Sungwoong Yun    |   Sungjoon Yang    |   Hoil Lee    |   Jeseok Oh    |   Kibum Yun    |
+
+<!--
 PI: Sunho Park
 EL: Sungwoong Yun
 EM: Sungjoon Yang
 EM: Hoil Lee
 EM: Jeseok Oh
 EM: Kibum Yun
+-->
 
 # ※프로젝트 구축방법(윈도우 버전)
 
