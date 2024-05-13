@@ -87,7 +87,7 @@ Next!
 
 ## 2. DonkeyBro 프로젝트 설치하기
 <!-- ## 2. donkeycar_projects 설치하기 -->
-다음과 같이 C드라이브 바로 아래에 donkeycar_projects프로젝트를 생성한다.
+다음과 같이 C드라이브 바로 아래에 DonkeyBro프로젝트를 생성한다.
 
 ```
 cd C:\
@@ -99,7 +99,7 @@ cd C:\
 
 ```shell
 git clone https://github.com/YUNSUNGWOONG/DonkeyBro.git
-cd donkeycar_projects
+cd DonkeyBro
 ```
 
 기존 서브모듈들을 최신버전으로 업데이트 해준다.
@@ -112,7 +112,7 @@ git submodule update --init
 
 ## 3. 가상환경 구축하기
 
-cmd창에서 donkeycar_projects로 와주고, 가상환경 패키지 및 가상환경 구축을 해준다.
+cmd창에서 DonkeyBro로 와주고, 가상환경 패키지 및 가상환경 구축을 해준다.
 
 ```shell
 pip install virtualenv
@@ -138,7 +138,7 @@ pip install --upgrade wheel setuptools
 
 ## 4. donkeycar/gym-donkeycar 의존성 패키지 설치하기
 
-donkeycar_projects에 들어가면 donkeycar가 있을것이다. cmd창으로 여기를 들어가준다. 그리고 서브패키지를 설치해준다.
+DonkeyBro에 들어가면 donkeycar가 있을것이다. cmd창으로 여기를 들어가준다. 그리고 서브패키지를 설치해준다.
 
 ```shell
 cd donkeycar
@@ -146,7 +146,7 @@ pip install -e .
 cd ..
 ```
 
-donkeycar_projects에 들어가면 gym-donkeycar가 있을것이다. cmd창으로 여기를 들어가준다. 그리고 서브패키지를 설치해준다.
+DonkeyBro에에 들어가면 gym-donkeycar가 있을것이다. cmd창으로 여기를 들어가준다. 그리고 서브패키지를 설치해준다.
 
 ```shell
 cd gym-donkeycar
@@ -158,7 +158,7 @@ cd ..
 
 ## 5. library_sheet에서 의존성 패키지 설치하기
 
-donkeycar_projects에 들어가면 library_sheet가 있을것이다. cmd창으로 여기를 들어가준다. 그리고 서브패키지를 설치해준다.
+DonkeyBro에에 들어가면 library_sheet가 있을것이다. cmd창으로 여기를 들어가준다. 그리고 서브패키지를 설치해준다.
 
 ```shell
 cd library_sheet
