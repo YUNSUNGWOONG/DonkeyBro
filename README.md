@@ -79,8 +79,8 @@ Next!
 
 
 
-
-## 2. donkeycar_projects 설치하기
+## 2. DonkeyBro 프로젝트 설치하기
+<!-- ## 2. donkeycar_projects 설치하기 -->
 다음과 같이 C드라이브 바로 아래에 donkeycar_projects프로젝트를 생성한다.
 
 ```
@@ -89,10 +89,10 @@ cd C:\
 
 
 
-해당([링크][https://github.com/YUNSUNGWOONG/donkeycar_projects])로 git clone을 해준다.
+해당([링크](https://github.com/YUNSUNGWOONG/donkeycar_projects))로 git clone을 해준다.
 
 ```shell
-git clone https://github.com/YUNSUNGWOONG/donkeycar_projects.git
+git clone https://github.com/YUNSUNGWOONG/DonkeyBro.git
 cd donkeycar_projects
 ```
 
