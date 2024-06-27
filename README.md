@@ -57,28 +57,28 @@ pacman -S wget unzip mingw-w64-ucrt-x86_64-hdf5 mingw-w64-ucrt-x86_64-ffmpeg
 (물론 3.7, 3.8에서도 동작하지만 저작자와 맞추기 위함이다. 그리고 3.10이상에서는 잔오류가 많이 발생하게 된다.)
 
 <div>
-	<img src="./images/common/README}/image-20240229191848799.png" alt="image-20240229191848799" style="zoom:100%"/>
+	<img src="./images/common/README/image-20240229191848799.png" alt="image-20240229191848799" style="zoom:100%"/>
 </div>
 
 이후 아래와 같이 설치한다.
 
-![image-20240229193031719](images/common/README}/image-20240229193031719.png)
+![image-20240229193031719](images/common/README/image-20240229193031719.png)
 
 Next!
 
-![image-20240229193045326](images/common/README}/image-20240229193045326.png)
+![image-20240229193045326](images/common/README/image-20240229193045326.png)
 
 아래와 같이 세가지를 체크해주고, 설치경로를 다음과 같이 `C:\Python\Python3_9_12` 맞춰준다.
 
-![image-20240229193057292](images/common/README}/image-20240229193057292.png)
+![image-20240229193057292](images/common/README/image-20240229193057292.png)
 
 이렇게 깔리면 아래와 같이 구조가 잡히게 된것이다.
 
-![image-20240229193616533](images/common/README}/image-20240229193616533.png)
+![image-20240229193616533](images/common/README/image-20240229193616533.png)
 
 이후 수동으로 환경변수(사용자변수)를 잡아주자.
 
-![image-20240229193849567](images/common/README}/image-20240229193849567.png)
+![image-20240229193849567](images/common/README/image-20240229193849567.png)
 
 
 
@@ -119,11 +119,17 @@ pip install virtualenv
 virtualenv env
 ```
 
-![image-20240229194919138](images/common/README}/image-20240229194919138.png)
+![image-20240229194919138](images/common/README/image-20240229194919138.png)
 
 이후 가상환경에 접속해준다.
+```shell
+cd env/Scripts
+activate
+cd ..
+cd ..
+```
 
-![image-20240229195007561](images/common/README}/image-20240229195007561.png)
+![image-20240229195007561](images/common/README/image-20240229195007561.png)
 
 아래 것들을 설치해준다.
 
@@ -204,11 +210,11 @@ cd mycar
 
 수정전>
 
-![image-20240301004548797](images/common/README}/image-20240301004548797.png)
+![image-20240301004548797](images/common/README/image-20240301004548797.png)
 
 수정후>
 
-![image-20240301005014869](images/common/README}/image-20240301005014869.png)
+![image-20240301005014869](images/common/README/image-20240301005014869.png)
 
 4)현재 mycar디렉토리에서 다음 명령어를 적어줍니다.
 
@@ -218,11 +224,11 @@ python manage.py drive
 
 <웹브라우저에 localhost:8887이라고 적어주세요.>(아래그림: 웹브라우저와 콘솔창)
 
-![image-20240301005206853](images/common/README}/image-20240301005206853.png)
+![image-20240301005206853](images/common/README/image-20240301005206853.png)
 
 (아래그림: 시뮬레이션 화면)
 
-![image-20240301005245170](images/common/README}/image-20240301005245170.png)
+![image-20240301005245170](images/common/README/image-20240301005245170.png)
 
 ## 8. cars안에 car_dl, car_cv 생성하기
 
@@ -242,7 +248,7 @@ donkey createcar –template=path_follow --path car_dl
 
 최종적으로 아래와 같이 아키텍처를 구축하게 됩니다.
 
-![image-20240301102542781](images/common/README}/image-20240301102542781.png)
+![image-20240301102542781](images/common/README/image-20240301102542781.png)
 
 ## 9. 카메라로 데이터 수집하기(Data collection)
 

@@ -1,13 +1,13 @@
-tensorflow
+# tensorflow
 
 
-tensorflow-datasets
-tensorflow-hub
-tensorflow-model-optimization
+# tensorflow-datasets
+# tensorflow-hub
+# tensorflow-model-optimization
 
 debugpy
 
-#jupyter
+# jupyter
 
 matplotlib
 numpy
