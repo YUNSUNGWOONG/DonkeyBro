@@ -7,7 +7,7 @@
 
 debugpy
 
-# jupyter
+#jupyter
 
 matplotlib
 numpy
@@ -29,7 +29,7 @@ h5py
 plotly
 moviepy
 vis
-keras-vis
+#keras-vis
 gym
 
 pyopengl
