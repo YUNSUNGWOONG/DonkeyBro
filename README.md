@@ -260,13 +260,13 @@ python manage.py drive로 주행을 하게 되면 동작에 따라 실시간으�
 
 ## 10. driving model 훈련시키기(Train Data)
 
-tensorflow를 통해 훈련을 시키기 위해서는 msvcp140.dl파일이 필요하며, 이는 Microsoft Visual C++ Redistributable 패키지에 포함되어 있다.([관련사이트](https://learn.microsoft.com/ko-kr/cpp/windows/latest-supported-vc-redist?view=msvc-170))
-컴퓨터 설정에 맞춰 둘중 하나를 설치해서 실행해준다.
-64비트일 경우: [`vc_redist.x64.exe`](https://aka.ms/vs/17/release/vc_redist.x64.exe)
-32비트일 경우: [`vc_redist.x86.exe`](https://aka.ms/vs/17/release/vc_redist.x86.exe)
+tensorflow를 통해 훈련을 시키기 위해서는 msvcp140.dl파일이 필요하며, 이는 Microsoft Visual C++ Redistributable 패키지에 포함되어 있다.([관련사이트](https://learn.microsoft.com/ko-kr/cpp/windows/latest-supported-vc-redist?view=msvc-170))<br>
+컴퓨터 설정에 맞춰 둘중 하나를 설치해서 실행해준다.<br>
+64비트일 경우: [`vc_redist.x64.exe`](https://aka.ms/vs/17/release/vc_redist.x64.exe)<br>
+32비트일 경우: [`vc_redist.x86.exe`](https://aka.ms/vs/17/release/vc_redist.x86.exe)<br>
 
-설치가 다
-mycar디렉토리를 보면 train.py가 있습니다. 이를 활용하여 두가지 방식중 하나를 복붙해서 훈련을 시켜준다.
+설치가 다 완료되면 아래 순서를 진행해준다.<br>
+mycar디렉토리를 보면 train.py가 있습니다. 이를 활용하여 두가지 방식중 하나를 복붙해서 훈련을 시켜준다.<br>
 
 ```shell
 # python 명령어를 사용하는 경우
