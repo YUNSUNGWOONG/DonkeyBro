@@ -105,7 +105,7 @@ cd DonkeyBro
 기존 서브모듈들을 최신버전으로 업데이트 해준다.
 
 ```shell
-git submodule update --init
+git submodule init
 ```
 
 
