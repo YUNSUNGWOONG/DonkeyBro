@@ -24,16 +24,16 @@ EM: Kibum Yun
 
 ## 기본적으로 설치되어 있어야 할 프로그램
 
-1. vscode([링크](https://code.visualstudio.com/download))
-2. git([링크](https://git-scm.com/))
-3. msys([링크](https://www.msys2.org/))
-4. 파이썬(3.9.12)([링크](https://www.python.org/downloads/))
+1. Vscode([링크](https://code.visualstudio.com/download))
+2. Git([링크](https://git-scm.com/))
+3. Msys([링크](https://www.msys2.org/))
+4. Miniconda(3.9)([링크](https://docs.anaconda.com/miniconda/miniconda-other-installer-links/))
 
 <br>
 
-|     vscode     |     git     |   msys   |    python   |
+|     vscode     |     git     |   msys   |    miniconda   |
 |   :--------:   |  :--------: | :------: |   :-----:   |
-|   ![vscode]    |   ![git]    | ![msys]  |  ![python]  |
+|   ![vscode]    |   ![git]    | ![msys]  |  ![miniconda]  |
 
 <br>
 
@@ -322,4 +322,4 @@ MIT &copy; [YUNSUNGWOONG](mailto:2170004487z@gmail.com)
 [vscode]: ./images/stack/vscode.svg
 [git]: ./images/stack/git.svg
 [msys]:  ./images/stack/msys2.svg
-[python]:  ./images/stack/python.svg
+[miniconda]:  ./images/stack/miniconda.svg
