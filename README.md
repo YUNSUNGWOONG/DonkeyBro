@@ -230,6 +230,8 @@ python manage.py drive
 
 ![image-20240301005245170](images/common/README/image-20240301005245170.png)
 
+![image-20240301005245170](images/common/README/gif1.gif)
+
 ## 8. cars안에 car_dl, car_cv 생성하기
 
 이번에는 두가지 각각 다른 템플릿이 탑재된 차량템플릿을 적용해서, 차량을 생성해보겠습니다.
