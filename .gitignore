@@ -4,7 +4,8 @@
 /.externalToolBuilders/
 /cars/
 /DonkeySimWin/
-
+/DonkeySimLinux/
+/DonkeySimLinux.zip
 
 _pycache_/
 *.pyc
